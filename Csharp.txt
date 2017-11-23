@@ -1,0 +1,90 @@
+Class:
+-----
+It is a collection of Objects,Methods & Variables.
+
+Object:
+-------
+Instance of a class is said to be a Object.
+
+Basic Oops Concepts:
+-------------------
+Abstraction:
+-----------
+Abstraction is a process of hiding the implementation details and displaying the essential features to the outside world.
+
+Encapsulation:
+--------------
+Encapsulation is a process of binding the data members and member functions into a single unit.
+
+Inheritance:
+------------
+Inheritance is a process of deriving the new class from already existing class.
+
+Polymorphism:
+-------------
+
+--> It allows you to invoke methods of derived class through base class reference during runtime.
+--> It has the ability for classes to provide different implementations of methods that are called through the same name.
+
+Polymorphism is of two types:
+-----------------------------
+ 
+1) Compile time polymorphism/Overloading
+2) Runtime polymorphism/Overriding
+
+Compile Time Polymorphism:
+-------------------------
+Compile time polymorphism is method and operators overloading. 
+It is also called early binding.
+
+In method overloading method performs the different task at the different input parameters.
+ 
+Runtime Time Polymorphism:
+-------------------------
+ 
+Runtime time polymorphism is done using inheritance and virtual functions.
+Method overriding is called runtime polymorphism.
+It is also called late binding.
+
+Collections In C#:
+-----------------
+1) Arraylist:
+   --------
+It represents ordered collection of an object that can be "INDEXED" individually.
+
+2) Hashtable:
+   ---------
+It uses a "KEY" to access the elements in the collection.
+
+3) Sortedlist:
+   ----------
+It uses a "KEY" as well as an "INDEX" to access the items in a list.
+
+4) Stack:
+   -----
+It represents a LAST-IN, FIRST-OUT (LIFO) collection of object.
+
+5) Queue:
+   -----
+It represents a FIRST-IN,FIRST-OUT (FIFO) collection of object.
+
+6) Bit Array:
+   ---------
+It represents an array of the binary representation using the values 1 and 0.
+
+Types of Inheritance:
+--------------------
+1) Single(A,B:A)
+2) Hierarchical(A,B:A,C:A,.....)
+3) Multi-Level(A,B:A,C:B,...)
+4) Multiple (Using Interface)(IA,IB,C:IA,IB)
+
+How do you prevent a class from being inherited?
+A) Use SEALED keyword
+
+
+
+
+
+
+

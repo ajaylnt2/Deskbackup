@@ -1,0 +1,246 @@
+﻿5,Dover,Plant,1,/Dover,NULL,2,NULL,2017-05-19 11:52:48.487,Admin,Admin,2017-05-19 11:52:48.487,Y
+6,Dessert,Department,2,/Dover,/Dover,2,NULL,2017-05-19 11:53:54.197,Admin,Admin,2017-05-19 11:53:54.197,Y
+7,Shake n Bake,Department,2,/Dover,/Dover,2,NULL,2017-05-19 11:54:07.247,Admin,Admin,2017-05-19 11:54:07.247,Y
+8,Stove Top,Department,2,/Dover,/Dover,2,NULL,2017-05-19 11:54:25.073,Admin,Admin,2017-05-19 11:54:25.073,Y
+9,Beverages,Department,2,/Dover,/Dover,2,NULL,2017-05-19 11:54:35.130,Admin,Admin,2017-05-19 11:54:35.130,Y
+10,Dryers,Dryer,8,/Dover,/Dover,2,NULL,2017-05-19 11:55:25.940,Admin,Admin,2017-05-19 11:55:25.940,Y
+11,Air Compressors #A,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-19 11:56:00.237,Admin,Admin,2017-05-19 11:56:00.237,Y
+12,Air Compressors #B,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:01:35.327,Admin,Admin,2017-05-22 10:01:35.327,Y
+13,Air Compressors #C,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:35:23.290,Admin,Admin,2017-05-22 10:35:23.290,Y
+14,Air Compressors #D,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:35:39.407,Admin,Admin,2017-05-22 10:35:39.407,Y
+15,Air Compressors #E,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:36:04.807,Admin,Admin,2017-05-22 10:36:04.807,Y
+16,Air Compressors #F,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:36:18.957,Admin,Admin,2017-05-22 10:36:18.957,Y
+17,Air Compressors #G,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:36:31.037,Admin,Admin,2017-05-22 10:36:31.037,Y
+18,Air Compressors #H,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:36:42.173,Admin,Admin,2017-05-22 10:36:42.173,Y
+19,Air Compressors #I,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:36:54.373,Admin,Admin,2017-05-22 10:36:54.373,Y
+20,Air Compressors JOY#3,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:40:44.870,Admin,Admin,2017-05-22 10:40:44.870,Y
+21,Air Compressors JOY#4,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:40:55.420,Admin,Admin,2017-05-22 10:40:55.420,Y
+22,Air Compressors G/D#1,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:41:09.793,Admin,Admin,2017-05-22 10:41:09.793,Y
+23,Air Compressors G/D#2,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 10:42:54.463,Admin,Admin,2017-05-22 10:42:54.463,Y
+24,Refrigeration(Chillers),Refrigerator,6,/Dover,/Dover,2,NULL,2017-05-22 10:43:29.363,Admin,Admin,2017-05-22 10:43:29.363,Y
+25,Air Compressors,AirCompressor,7,/Dover,/Dover,2,NULL,2017-05-22 11:21:36.500,Admin,Admin,2017-05-22 11:21:36.500,Y
+26,l&T,Plant,1,/Lnt Mysore,NULL,3,NULL,2017-06-06 09:39:15.060,Admin,Admin,2017-06-06 09:39:15.060,Y
+27,Ts1,Building,3,/Lnt Mysore,/Lnt Mysore,3,NULL,2017-06-07 05:25:44.510,Admin,Admin,2017-06-07 05:25:44.510,Y
+28,Ts2,Building,3,/Lnt Mysore,/Lnt Mysore,3,NULL,2017-06-07 05:26:34.507,Admin,Admin,2017-06-07 05:26:34.507,Y
+29,APE,Department,2,/Lnt Mysore,/Lnt Mysore,3,NULL,2017-06-07 09:27:01.213,Admin,Admin,2017-06-07 09:27:01.213,Y
+30,Test1,Boiler,5,/Lnt Mysore,/Lnt Mysore,3,NULL,2017-06-07 10:10:06.930,Admin,Admin,2017-06-07 10:10:06.930,Y
+31,PlantTest,Plant,1,/PlantTest,NULL,4,NULL,2017-06-12 06:46:34.440,Admin,Admin,2017-06-12 06:46:34.440,Y
+32,Ground,Building,3,/PlantTest,/PlantTest,4,NULL,2017-06-12 06:47:24.367,Admin,Admin,2017-06-12 06:47:24.367,Y
+33,Test,Plant,1,/Test,NULL,5,NULL,2017-06-12 09:28:06.657,Admin,Admin,2017-06-12 09:28:06.657,Y
+34,Testing,Department,2,/Test,/Test,5,NULL,2017-06-12 09:28:37.120,Admin,Admin,2017-06-12 09:28:37.120,Y
+35,TestAC1,AirCompressor,7,/Test,/Test,5,NULL,2017-06-12 09:28:52.100,Admin,Admin,2017-06-12 09:28:52.100,Y
+36,KHChris,Plant,1,/KHChris,NULL,6,NULL,2017-06-14 09:42:08.103,Admin,Admin,2017-06-14 09:42:08.103,Y
+37,Raw Processing,Department,2,/KHChris,/KHChris,6,NULL,2017-06-14 09:42:47.850,Admin,Admin,2017-06-14 09:42:47.850,Y
+38,Dehydration,Department,2,/KHChris,/KHChris,6,NULL,2017-06-14 09:43:05.837,Admin,Admin,2017-06-14 09:43:05.837,Y
+39,Freezing,Department,2,/KHChris,/KHChris,6,NULL,2017-06-14 09:43:21.463,Admin,Admin,2017-06-14 09:43:21.463,Y
+40,Boiler House,Boiler,5,/KHChris,/KHChris,6,NULL,2017-06-14 09:44:37.153,Admin,Admin,2017-06-14 09:44:37.153,Y
+41,Air Compressors,AirCompressor,7,/KHChris,/KHChris,6,NULL,2017-06-14 09:48:40.153,Admin,Admin,2017-06-14 09:48:40.153,Y
+42,"Refrigeration System ",Refrigerator,6,/KHChris,/KHChris,6,NULL,2017-06-14 09:49:17.983,Admin,Admin,2017-06-14 09:49:17.983,Y
+43,TestingNewPlant,Plant,1,/TestingNewPlant,NULL,7,NULL,2017-06-29 05:49:03.947,Admin,Admin,2017-06-29 05:49:03.947,Y
+44,PumpHouse,PumpHouse,9,/KHChris,/KHChris,6,NULL,2017-06-30 10:25:49.097,Admin,Admin,2017-06-30 10:25:49.097,Y
+45,TetsingFromDesk,Building,3,/TestingNewPlant,/TestingNewPlant,7,NULL,2017-07-03 12:33:55.087,Admin,Admin,2017-07-03 12:33:55.087,Y
+46,Plant1,Plant,1,/Plant1,NULL,8,NULL,2017-07-05 10:45:59.537,Admin,Admin,2017-07-05 10:45:59.537,Y
+47,DepartmentOne,Department,2,/PlantBaroda,/PlantBaroda,8,NULL,2017-07-05 11:08:21.653,Admin,Admin,2017-07-05 11:08:21.653,Y
+48,TestingPlantNZ1,Plant,1,/TestingPlantNZ,NULL,9,NULL,2017-07-11 11:55:19.007,Admin,Admin,2017-07-11 11:55:19.007,Y
+49,NZ Building,Building,3,/TestingPlantNZ,/TestingPlantNZ,9,NULL,2017-07-11 11:55:37.490,Admin,Admin,2017-07-11 11:55:37.490,Y
+50,NZ Department,Department,2,/TestingPlantNZ,/TestingPlantNZ,9,NULL,2017-07-11 11:55:48.100,Admin,Admin,2017-07-11 11:55:48.100,Y
+51,NZ AC 1,AirCompressor,7,/TestingPlantNZ,/TestingPlantNZ,9,NULL,2017-07-11 11:56:01.293,Admin,Admin,2017-07-11 11:56:01.293,Y
+52,LntMysore,Plant,1,/LntMysore,NULL,10,NULL,2017-07-13 07:29:20.650,Admin,Admin,2017-07-13 07:29:20.650,Y
+53,MYSBUliding1,Building,3,/LntMysore,/LntMysore,10,NULL,2017-07-13 07:32:31.710,Admin,Admin,2017-07-13 07:32:31.710,Y
+54,MYSDep1,Department,2,/LntMysore,/LntMysore,10,NULL,2017-07-13 07:32:43.627,Admin,Admin,2017-07-13 07:32:43.627,Y
+55,MysAC1,AirCompressor,7,/LntMysore,/LntMysore,10,NULL,2017-07-13 07:32:54.320,Admin,Admin,2017-07-13 07:32:54.320,Y
+56,KHPlantA,Plant,1,/KHPlantA,NULL,11,NULL,2017-07-18 10:27:45.987,Admin,Admin,2017-07-18 10:27:45.987,Y
+57,PlantABuilding1,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:12.537,Admin,Admin,2017-07-18 10:29:12.537,Y
+58,PlantABuilding2,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:18.077,Admin,Admin,2017-07-18 10:29:18.077,Y
+59,PlantABuilding3,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:24.183,Admin,Admin,2017-07-18 10:29:24.183,Y
+60,PlantADepartment1,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:44.643,Admin,Admin,2017-07-18 10:29:44.643,Y
+61,PlantADepartment2,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:49.410,Admin,Admin,2017-07-18 10:29:49.410,Y
+62,PlantADepartment3,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:29:53.640,Admin,Admin,2017-07-18 10:29:53.640,Y
+63,PlantAEquipment1,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:30:18.277,Admin,Admin,2017-07-18 10:30:18.277,Y
+64,PlantAEquipment2,Dryer,8,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:30:47.607,Admin,Admin,2017-07-18 10:30:47.607,Y
+65,PlantAEquipment3,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:31:05.760,Admin,Admin,2017-07-18 10:31:05.760,Y
+66,PlantAEquipment4,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:31:12.213,Admin,Admin,2017-07-18 10:31:12.213,Y
+67,PlantAEquipment5,Refrigerator,6,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 10:31:28.103,Admin,Admin,2017-07-18 10:31:28.103,Y
+68,Dryer2,Dryer,8,/KHPlantA,/KHPlantA,11,NULL,2017-07-18 13:34:02.957,Admin,Admin,2017-07-18 13:34:02.957,Y
+69,-Bfd,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:05:15.070,Admin,Admin,2017-07-19 05:05:15.070,Y
+70,Boiler 1,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:05:36.253,Admin,Admin,2017-07-19 05:05:36.253,Y
+71,"Boiler ",Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:08:01.247,Admin,Admin,2017-07-19 05:08:01.247,Y
+72,0,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:08:14.487,Admin,Admin,2017-07-19 05:08:14.487,Y
+73,Boiler 2,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:08:33.183,Admin,Admin,2017-07-19 05:08:33.183,Y
+74,Boiler 3,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:08:50.937,Admin,Admin,2017-07-19 05:08:50.937,Y
+75,Dryer 1,Dryer,8,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:10:01.967,Admin,Admin,2017-07-19 05:10:01.967,Y
+76,Air Compressor,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:10:56.917,Admin,Admin,2017-07-19 05:10:56.917,Y
+77,Air Compressor 1,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:11:03.337,Admin,Admin,2017-07-19 05:11:03.337,Y
+78,DevlopmentPlant1,Plant,1,/DevlopmentPlant1,NULL,12,NULL,2017-07-19 05:11:03.807,Admin,Admin,2017-07-19 05:11:03.807,Y
+79,Air Compressor 2,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:11:13.557,Admin,Admin,2017-07-19 05:11:13.557,Y
+80,TestBulding1,Building,3,/DevlopmentPlant1,/DevlopmentPlant1,12,NULL,2017-07-19 05:11:28.737,Admin,Admin,2017-07-19 05:11:28.737,Y
+81,"Chiller ",Refrigerator,6,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:11:39.317,Admin,Admin,2017-07-19 05:11:39.317,Y
+82,TestDepartment1,Department,2,/DevlopmentPlant1,/DevlopmentPlant1,12,NULL,2017-07-19 05:11:44.533,Admin,Admin,2017-07-19 05:11:44.533,Y
+83,Chiller 1,Refrigerator,6,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:11:52.677,Admin,Admin,2017-07-19 05:11:52.677,Y
+84,Equipment1,AirCompressor,7,/DevlopmentPlant1,/DevlopmentPlant1,12,NULL,2017-07-19 05:11:58.837,Admin,Admin,2017-07-19 05:11:58.837,Y
+85,PlantABulding4,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:15:54.780,Admin,Admin,2017-07-19 05:15:54.780,Y
+86,PlantABulding5,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:15:59.583,Admin,Admin,2017-07-19 05:15:59.583,Y
+87,PlantABulding6,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:16:03.710,Admin,Admin,2017-07-19 05:16:03.710,Y
+88,PlantABulding7,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:16:09.993,Admin,Admin,2017-07-19 05:16:09.993,Y
+89,PlantABulding8,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:16:14.807,Admin,Admin,2017-07-19 05:16:14.807,Y
+90,PlantABulding9,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:16:18.820,Admin,Admin,2017-07-19 05:16:18.820,Y
+91,PlantABulding10,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:16:23.440,Admin,Admin,2017-07-19 05:16:23.440,Y
+92,PlantABulding11,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:10.720,Admin,Admin,2017-07-19 05:17:10.720,Y
+93,PlantABulding12,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:19.130,Admin,Admin,2017-07-19 05:17:19.130,Y
+94,PlantABulding13,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:23.280,Admin,Admin,2017-07-19 05:17:23.280,Y
+95,PlantABulding14,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:27.670,Admin,Admin,2017-07-19 05:17:27.670,Y
+96,PlantABulding15,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:34.927,Admin,Admin,2017-07-19 05:17:34.927,Y
+97,PlantABulding16,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:39.283,Admin,Admin,2017-07-19 05:17:39.283,Y
+98,PlantABulding17,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:43.763,Admin,Admin,2017-07-19 05:17:43.763,Y
+99,PlantABulding18,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:48.997,Admin,Admin,2017-07-19 05:17:48.997,Y
+100,PlantABulding19,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:53.937,Admin,Admin,2017-07-19 05:17:53.937,Y
+101,PlantABulding20,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:17:58.787,Admin,Admin,2017-07-19 05:17:58.787,Y
+102,PlantABulding21,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:03.250,Admin,Admin,2017-07-19 05:18:03.250,Y
+103,PlantABulding22,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:07.203,Admin,Admin,2017-07-19 05:18:07.203,Y
+104,PlantABulding23,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:11.710,Admin,Admin,2017-07-19 05:18:11.710,Y
+105,PlantABulding24,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:15.427,Admin,Admin,2017-07-19 05:18:15.427,Y
+106,PlantABulding25,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:22.757,Admin,Admin,2017-07-19 05:18:22.757,Y
+107,PlantABulding26,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:33.573,Admin,Admin,2017-07-19 05:18:33.573,Y
+108,PlantABulding27,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:38.470,Admin,Admin,2017-07-19 05:18:38.470,Y
+109,PlantABulding28,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:18:42.943,Admin,Admin,2017-07-19 05:18:42.943,Y
+110,PlantDepartment12345,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:19:13.070,Admin,Admin,2017-07-19 05:19:13.070,Y
+111,Boiler 4,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-19 05:40:38.000,Admin,Admin,2017-07-19 05:40:38.000,Y
+112,21323,Building,3,NULL,NULL,0,NULL,2017-07-19 12:54:46.167,Admin,Admin,2017-07-19 12:54:46.167,Y
+113,332,Department,2,NULL,NULL,0,NULL,2017-07-19 12:54:55.613,Admin,Admin,2017-07-19 12:54:55.613,Y
+114,2323,AirCompressor,7,NULL,NULL,0,NULL,2017-07-19 12:54:59.150,Admin,Admin,2017-07-19 12:54:59.150,Y
+115,sdfdfff,Building,3,NULL,NULL,0,NULL,2017-07-19 12:59:47.610,Admin,Admin,2017-07-19 12:59:47.610,Y
+116,AirCompressor1,AirCompressor,7,NULL,NULL,0,NULL,2017-07-19 13:01:00.750,Admin,Admin,2017-07-19 13:01:00.750,Y
+117,KHPlantB,Plant,1,/KHPlantB,NULL,13,NULL,2017-07-19 13:09:49.600,Admin,Admin,2017-07-19 13:09:49.600,Y
+118,Boiler1A,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:32:54.437,Admin,Admin,2017-07-19 13:32:54.437,Y
+119,Boiler2A,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:33:01.297,Admin,Admin,2017-07-19 13:33:01.297,Y
+120,Boiler3A,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:33:06.653,Admin,Admin,2017-07-19 13:33:06.653,Y
+121,Boiler3B,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:33:11.803,Admin,Admin,2017-07-19 13:33:11.803,Y
+122,Boiler2B,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:33:16.140,Admin,Admin,2017-07-19 13:33:16.140,Y
+123,Boiler1B,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:33:20.343,Admin,Admin,2017-07-19 13:33:20.343,Y
+124,Boiler1,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:35:04.880,Admin,Admin,2017-07-19 13:35:04.880,Y
+125,PlantABuilding1,Building,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:40:29.580,Admin,Admin,2017-07-19 13:40:29.580,Y
+126,Boiler,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:40:41.243,Admin,Admin,2017-07-19 13:40:41.243,Y
+127,Boiler 1A,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:40:57.897,Admin,Admin,2017-07-19 13:40:57.897,Y
+128,Boiler 2A,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:02.597,Admin,Admin,2017-07-19 13:41:02.597,Y
+129,Boiler 3A,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:07.460,Admin,Admin,2017-07-19 13:41:07.460,Y
+130,Boiler 1B,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:16.300,Admin,Admin,2017-07-19 13:41:16.300,Y
+131,Boiler 2B,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:20.570,Admin,Admin,2017-07-19 13:41:20.570,Y
+132,Boiler 3B,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:25.397,Admin,Admin,2017-07-19 13:41:25.397,Y
+133,Boiler 4B,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:53.530,Admin,Admin,2017-07-19 13:41:53.530,Y
+134,Boiler 4A,Boiler,5,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:41:59.003,Admin,Admin,2017-07-19 13:41:59.003,Y
+135,Air compressor 1A,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:42:20.230,Admin,Admin,2017-07-19 13:42:20.230,Y
+136,Air compressor 2A,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:42:37.347,Admin,Admin,2017-07-19 13:42:37.347,Y
+137,Air compressor 3A,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:42:43.043,Admin,Admin,2017-07-19 13:42:43.043,Y
+138,Air compressor 1B,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:42:54.470,Admin,Admin,2017-07-19 13:42:54.470,Y
+139,Air compressor 2B,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:42:59.073,Admin,Admin,2017-07-19 13:42:59.073,Y
+140,Air compressor 3B,AirCompressor,7,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:03.287,Admin,Admin,2017-07-19 13:43:03.287,Y
+141,Dryer 1A,Dryer,8,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:20.610,Admin,Admin,2017-07-19 13:43:20.610,Y
+142,Dryer 2A,Dryer,8,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:25.017,Admin,Admin,2017-07-19 13:43:25.017,Y
+143,Dryer 1B,Dryer,8,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:32.473,Admin,Admin,2017-07-19 13:43:32.473,Y
+144,Dryer 2B,Dryer,8,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:37.637,Admin,Admin,2017-07-19 13:43:37.637,Y
+145,Chiller 1A,Refrigerator,6,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:50.887,Admin,Admin,2017-07-19 13:43:50.887,Y
+146,Chiller 2A,Refrigerator,6,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:43:56.223,Admin,Admin,2017-07-19 13:43:56.223,Y
+147,Chiller 2B,Refrigerator,6,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:44:03.010,Admin,Admin,2017-07-19 13:44:03.010,Y
+148,Chiller 1B,Refrigerator,6,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 13:44:07.260,Admin,Admin,2017-07-19 13:44:07.260,Y
+149,PlantADepartment5,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 10:50:56.263,Admin,Admin,2017-07-20 10:50:56.263,Y
+150,Department6,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 10:58:10.477,Admin,Admin,2017-07-20 10:58:10.477,Y
+151,Department7,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 10:58:15.987,Admin,Admin,2017-07-20 10:58:15.987,Y
+152,Department,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 10:58:23.263,Admin,Admin,2017-07-20 10:58:23.263,Y
+153,Department8,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 10:58:30.950,Admin,Admin,2017-07-20 10:58:30.950,Y
+154,#$%eg5646gfdg45ty45y,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-20 15:19:28.297,Admin,Admin,2017-07-20 15:19:28.297,Y
+155,TestBuilding1,Department,2,/DevlopmentPlant1,/DevlopmentPlant1,12,NULL,2017-07-22 08:04:49.233,Admin,Admin,2017-07-22 08:04:49.233,Y
+157,TestDepartment1,Department,2,NULL,NULL,1,NULL,2017-07-24 14:24:52.710,Admin,Admin,2017-07-24 14:24:52.710,Y
+158,TestBuilding,Building,3,NULL,NULL,1,NULL,2017-07-24 14:24:53.477,Admin,Admin,2017-07-24 14:24:53.477,Y
+159,Boiler123,Boiler,5,NULL,NULL,1,NULL,2017-07-24 14:24:54.237,Admin,Admin,2017-07-24 14:24:54.237,Y
+161,Bakery1,Department,2,/Test,/Test,5,NULL,2017-07-24 14:24:56.453,Admin,Admin,2017-07-24 14:24:56.453,Y
+162,FF_Boiler1,Boiler,5,/Test,/Test,5,NULL,2017-07-24 14:24:56.960,Admin,Admin,2017-07-24 14:24:56.960,Y
+165,TestBulding2,Building,3,/DevlopmentPlant1,/DevlopmentPlant1,12,NULL,2017-07-26 05:35:25.550,Admin,Admin,2017-07-26 05:35:25.550,Y
+166,Boiler,Boiler,3,/KHPlantB,/KHPlantB,13,NULL,2017-07-19 00:00:00.000,Admin,Admin,2017-07-19 00:00:00.000,Y
+167,4444444,Building,3,NULL,NULL,0,NULL,2017-07-26 09:44:19.287,Admin,Admin,2017-07-26 09:44:19.287,Y
+168,bghsgsdfghbfghfhghhj,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:48:52.240,Admin,Admin,2017-07-26 09:48:52.240,Y
+169,Plantabuilding1,Building,3,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:50:44.640,Admin,Admin,2017-07-26 09:50:44.640,Y
+170,Department10,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:18.613,Admin,Admin,2017-07-26 09:51:18.613,Y
+171,Department11,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:24.370,Admin,Admin,2017-07-26 09:51:24.370,Y
+172,Department12,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:28.817,Admin,Admin,2017-07-26 09:51:28.817,Y
+173,Department13,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:44.440,Admin,Admin,2017-07-26 09:51:44.440,Y
+174,Department14,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:48.600,Admin,Admin,2017-07-26 09:51:48.600,Y
+175,Department15,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:52.473,Admin,Admin,2017-07-26 09:51:52.473,Y
+176,Department16,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:51:56.607,Admin,Admin,2017-07-26 09:51:56.607,Y
+177,Department17,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:00.453,Admin,Admin,2017-07-26 09:52:00.453,Y
+178,Department18,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:04.213,Admin,Admin,2017-07-26 09:52:04.213,Y
+179,Department19,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:08.417,Admin,Admin,2017-07-26 09:52:08.417,Y
+180,Department20,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:13.580,Admin,Admin,2017-07-26 09:52:13.580,Y
+181,Department21,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:24.523,Admin,Admin,2017-07-26 09:52:24.523,Y
+182,Department22,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:28.413,Admin,Admin,2017-07-26 09:52:28.413,Y
+183,Department23,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:55.283,Admin,Admin,2017-07-26 09:52:55.283,Y
+184,Department24,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:52:57.240,Admin,Admin,2017-07-26 09:52:57.240,Y
+185,Department25,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:53:03.003,Admin,Admin,2017-07-26 09:53:03.003,Y
+186,Department26,Department,2,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:53:07.193,Admin,Admin,2017-07-26 09:53:07.193,Y
+187,Department27,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:55:00.457,Admin,Admin,2017-07-26 09:55:00.457,Y
+188,Department29,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:57:16.373,Admin,Admin,2017-07-26 09:57:16.373,Y
+189,Boiler7,Boiler,5,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:57:25.393,Admin,Admin,2017-07-26 09:57:25.393,Y
+190,hhfgh,AirCompressor,7,/KHPlantA,/KHPlantA,11,NULL,2017-07-26 09:57:48.937,Admin,Admin,2017-07-26 09:57:48.937,Y
+191,KHPlantC,Plant,1,/KHPlantC,NULL,18,NULL,2017-07-26 11:35:08.307,Admin,Admin,2017-07-26 11:35:08.307,Y
+192,Boiler TFC1,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:43:43.573,Admin,Admin,2017-07-26 11:43:43.573,Y
+193,Boiler CESFR1,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:44:09.163,Admin,Admin,2017-07-26 11:44:09.163,Y
+194,Boiler CESFR2,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:44:14.163,Admin,Admin,2017-07-26 11:44:14.163,Y
+195,Boiler TFC2,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:44:49.533,Admin,Admin,2017-07-26 11:44:49.533,Y
+196,Boiler CRE1,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:45:15.523,Admin,Admin,2017-07-26 11:45:15.523,Y
+197,Boiler CRE2,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:45:18.127,Admin,Admin,2017-07-26 11:45:18.127,Y
+198,Boiler TSG1,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:45:25.937,Admin,Admin,2017-07-26 11:45:25.937,Y
+199,Boiler TSG2,Boiler,5,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:45:30.897,Admin,Admin,2017-07-26 11:45:30.897,Y
+200,Chiller COP,Refrigerator,6,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:45:49.720,Admin,Admin,2017-07-26 11:45:49.720,Y
+201,Dryer SSC1,Dryer,8,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:46:01.757,Admin,Admin,2017-07-26 11:46:01.757,Y
+202,Dryer SSC2,Dryer,8,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:46:11.483,Admin,Admin,2017-07-26 11:46:11.483,Y
+203,Dryer TSC1,Dryer,8,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:46:25.437,Admin,Admin,2017-07-26 11:46:25.437,Y
+204,Dryer TSC2,Dryer,8,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:46:29.637,Admin,Admin,2017-07-26 11:46:29.637,Y
+205,Chiller COP2,Refrigerator,6,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:46:45.710,Admin,Admin,2017-07-26 11:46:45.710,Y
+206,AC CAF1,AirCompressor,7,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:47:25.570,Admin,Admin,2017-07-26 11:47:25.570,Y
+207,AC CAF2,AirCompressor,7,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:47:30.207,Admin,Admin,2017-07-26 11:47:30.207,Y
+208,AC SPC1,AirCompressor,7,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:47:38.087,Admin,Admin,2017-07-26 11:47:38.087,Y
+209,AC SPC2,AirCompressor,7,/KHPlantC,/KHPlantC,18,NULL,2017-07-26 11:47:42.560,Admin,Admin,2017-07-26 11:47:42.560,Y
+210,PlantTest123,Plant,1,/PlantTest123,NULL,19,NULL,2017-07-28 09:09:04.790,Admin,Admin,2017-07-28 09:09:04.790,Y
+211,Depart1,Department,2,/PlantTest123,/PlantTest123,19,NULL,2017-07-28 09:09:28.770,Admin,Admin,2017-07-28 09:09:28.770,Y
+212,AirComp1,AirCompressor,7,/PlantTest123,/PlantTest123,19,NULL,2017-07-28 09:09:39.503,Admin,Admin,2017-07-28 09:09:39.503,Y
+213,Boiler1,Boiler,5,/PlantTest123,/PlantTest123,19,NULL,2017-07-28 09:09:49.923,Admin,Admin,2017-07-28 09:09:49.923,Y
+214,searewf,Department,2,/KHPlantB,/KHPlantB,13,NULL,2017-07-28 10:24:41.867,Admin,Admin,2017-07-28 10:24:41.867,Y
+215,KHPlantG,Plant,1,/KHPlantG,NULL,20,NULL,2017-07-28 11:01:15.520,Admin,Admin,2017-07-28 11:01:15.520,Y
+216,Department1,Department,2,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:01:43.960,Admin,Admin,2017-07-28 11:01:43.960,Y
+217,Department2,Department,2,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:01:48.800,Admin,Admin,2017-07-28 11:01:48.800,Y
+218,Boiler 1,Boiler,5,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:04:24.690,Admin,Admin,2017-07-28 11:04:24.690,Y
+219,Boiler 2,Boiler,5,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:04:27.067,Admin,Admin,2017-07-28 11:04:27.067,Y
+220,Air Compressor1,AirCompressor,7,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:06.503,Admin,Admin,2017-07-28 11:05:06.503,Y
+221,Air Compressor2,AirCompressor,7,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:10.737,Admin,Admin,2017-07-28 11:05:10.737,Y
+222,Dryer1,Dryer,8,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:19.800,Admin,Admin,2017-07-28 11:05:19.800,Y
+223,Dryer2,Dryer,8,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:23.607,Admin,Admin,2017-07-28 11:05:23.607,Y
+224,Chiller 1,Refrigerator,6,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:32.650,Admin,Admin,2017-07-28 11:05:32.650,Y
+225,Chiller 2,Refrigerator,6,/KHPlantG,/KHPlantG,20,NULL,2017-07-28 11:05:36.783,Admin,Admin,2017-07-28 11:05:36.783,Y
+226,Plant123,Plant,1,/Plant123,NULL,21,NULL,2017-07-31 05:07:41.950,Admin,Admin,2017-07-31 05:07:41.950,Y
+227,Department1,Department,2,/Plant123,/Plant123,21,NULL,2017-07-31 05:08:03.650,Admin,Admin,2017-07-31 05:08:03.650,Y
+228,Department2,Department,2,/Plant123,/Plant123,21,NULL,2017-07-31 05:08:10.850,Admin,Admin,2017-07-31 05:08:10.850,Y
+229,AC1,AirCompressor,7,/Plant123,/Plant123,21,NULL,2017-07-31 05:08:20.780,Admin,Admin,2017-07-31 05:08:20.780,Y
+230,Boi1,Boiler,5,/Plant123,/Plant123,21,NULL,2017-07-31 05:08:30.647,Admin,Admin,2017-07-31 05:08:30.647,Y
+231,TestDover,Plant,1,/TestDover,NULL,22,NULL,2017-08-01 06:42:02.770,Admin,Admin,2017-08-01 06:42:02.770,Y
+232,TestBuilding,Building,3,/TestDover,/TestDover,22,NULL,2017-08-01 06:46:58.207,Admin,Admin,2017-08-01 06:46:58.207,Y
+233,TestDepartment,Department,2,/TestDover,/TestDover,22,NULL,2017-08-01 07:02:14.260,Admin,Admin,2017-08-01 07:02:14.260,Y
+234,TestEquipment,Boiler,5,/TestDover,/TestDover,22,NULL,2017-08-01 07:03:21.807,Admin,Admin,2017-08-01 07:03:21.807,Y
+235,Christchurch,Plant,1,/Christchurch,NULL,23,NULL,2017-08-01 10:07:45.237,Admin,Admin,2017-08-01 10:07:45.237,Y
+236,Raw Processing,Department,2,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:13:48.253,Admin,Admin,2017-08-01 10:13:48.253,Y
+237,Freezing Lines,Department,2,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:14:06.920,Admin,Admin,2017-08-01 10:14:06.920,Y
+238,Dehydrator Lines,Department,2,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:14:24.343,Admin,Admin,2017-08-01 10:14:24.343,Y
+239,Air Compressors,AirCompressor,7,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:14:43.513,Admin,Admin,2017-08-01 10:14:43.513,Y
+240,Boiler House,Boiler,5,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:15:02.950,Admin,Admin,2017-08-01 10:15:02.950,Y
+241,Pump House,PumpHouse,9,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:16:14.377,Admin,Admin,2017-08-01 10:16:14.377,Y
+242,Refrigerator System,Refrigerator,6,/Christchurch,/Christchurch,23,NULL,2017-08-01 10:16:59.430,Admin,Admin,2017-08-01 10:16:59.430,Y
+243,KHTestbuild3,Plant,1,/KHTestbuild3,NULL,24,NULL,2017-08-03 09:30:00.087,Admin,Admin,2017-08-03 09:30:00.087,Y
+244,jghj,Building,3,/KHTestbuild3,/KHTestbuild3,24,NULL,2017-08-03 09:32:26.987,Admin,Admin,2017-08-03 09:32:26.987,Y
+245,fghgh,Building,3,NULL,NULL,0,NULL,2017-08-03 10:11:19.537,Admin,Admin,2017-08-03 10:11:19.537,Y
+246,gfhghgfh,Building,3,NULL,NULL,0,NULL,2017-08-03 10:12:58.317,Admin,Admin,2017-08-03 10:12:58.317,Y
+247,gfhgfhg,Department,2,NULL,NULL,0,NULL,2017-08-03 10:13:02.833,Admin,Admin,2017-08-03 10:13:02.833,Y
+248,fhfghghh,AirCompressor,7,NULL,NULL,0,NULL,2017-08-03 10:13:08.377,Admin,Admin,2017-08-03 10:13:08.377,Y
+249,bnmnmbn,Building,3,NULL,NULL,0,NULL,2017-08-03 10:14:15.880,Admin,Admin,2017-08-03 10:14:15.880,Y
+250,bnmbnm,Department,2,NULL,NULL,0,NULL,2017-08-03 10:14:35.517,Admin,Admin,2017-08-03 10:14:35.517,Y
+251,hjdggggggggggggggggg,Department,2,NULL,NULL,0,NULL,2017-08-03 10:14:41.050,Admin,Admin,2017-08-03 10:14:41.050,Y
+252,KHPlantA,Plant,1,/KHTestBuild,NULL,25,NULL,2017-08-03 10:42:32.113,Admin,Admin,2017-08-03 10:42:32.113,Y
+253,lll,AirCompressor,7,NULL,NULL,0,NULL,2017-08-03 11:42:41.127,Admin,Admin,2017-08-03 11:42:41.127,Y
+254,KHPlantE,Plant,1,/KHPlantE,NULL,26,NULL,2017-08-04 08:40:17.847,Admin,Admin,2017-08-04 08:40:17.847,Y

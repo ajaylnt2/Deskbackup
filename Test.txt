@@ -1,0 +1,64 @@
+//Accounts controller
+[HttpPost]
+public ActionResult Login(LoginViewModel model, string returnUrl)
+{
+
+    string domain = (string)model.domain   
+    string userName = (string)model.UserName;
+    string password = (string)model.Password;
+
+    try
+    {
+        DirectoryEntry entry = new DirectoryEntry();
+        switch (domain)
+        {
+            case "OPTION1":
+                entry = new DirectoryEntry("LDAP://xx.xx.xx.xx:389", userName, password);
+                break;
+            case "OPTION2":
+                entry = new DirectoryEntry("LDAP://yy.yy.yy.yy:389", userName, password);
+                break;
+
+        }
+        object nativeObject = entry.NativeObject;
+        FormsAuthentication.SetAuthCookie(model.UserName, model.RememberMe);
+        if (this.Url.IsLocalUrl(returnUrl) && returnUrl.Length > 1 && returnUrl.StartsWith("/")
+                    && !returnUrl.StartsWith("//") && !returnUrl.StartsWith("/\\"))
+        {
+            return this.Redirect(returnUrl);
+        }
+        return this.RedirectToAction("Index", "Home");
+
+
+    }
+    catch (Exception ex)
+    {
+
+        this.ModelState.AddModelError(string.Empty, "The user name or password provided is incorrect.");
+    }
+    return View(model);
+}
+
+//web.config
+<authentication mode="Forms">
+  <forms name=".ADAuthCookie" loginUrl="~/Account/Login" timeout="60" slidingExpiration="false" protection="All" />
+</authentication>
+
+
+//in AccountViewModels I have
+using System.ComponentModel.DataAnnotations;
+
+public class LoginViewModel
+{
+[Required]
+[Display(Name = "User name")]
+public string UserName { get; set; }
+
+[Required]
+[DataType(DataType.Password)]
+[Display(Name = "Password")]
+public string Password { get; set; }
+
+[Display(Name = "Remember me?")]
+public bool RememberMe { get; set; }
+}
